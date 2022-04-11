@@ -1,0 +1,13 @@
+{             
+
+                "ip":"Tuoo5.aternos.me"
+                "port":17936 
+                "name":"pagal"
+
+
+
+
+
+
+
+       
